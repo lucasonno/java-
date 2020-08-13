@@ -1,2 +1,2 @@
 # description
-You can call it paper-scissors-stone or Rock Paper Scissors !  
+You can call it Paper Scissors Stone or Rock Paper Scissors !  
